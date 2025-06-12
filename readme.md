@@ -1,3 +1,4 @@
+![flappy_bird](flappy bird.png)
 # Procedural Themed Flappy Bird with RL Agents
 
 This repository contains a modular, procedurally generated version of Flappy Bird with multiple themes and reinforcement learning (RL) agent support.
